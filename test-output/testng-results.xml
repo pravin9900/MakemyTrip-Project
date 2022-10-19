@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-06T03:19:15Z" name="Suite" finished-at="2022-10-06T03:20:10Z" duration-ms="55223">
+    <groups>
+    </groups>
+    <test started-at="2022-10-06T03:19:15Z" name="Test" finished-at="2022-10-06T03:20:10Z" duration-ms="55223">
+      <class name="com.makemyTrip.Script.TestScript02">
+        <test-method is-config="true" signature="objects()[pri:0, instance:com.makemyTrip.Script.TestScript02@14008db3]" started-at="2022-10-06T08:49:15Z" name="objects" finished-at="2022-10-06T08:49:15Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.makemyTrip.Script.TestScript02@14008db3]" started-at="2022-10-06T08:49:15Z" name="setUp" finished-at="2022-10-06T08:49:36Z" duration-ms="20899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForTrains()[pri:0, instance:com.makemyTrip.Script.TestScript02@14008db3]" started-at="2022-10-06T08:49:36Z" name="searchForTrains" finished-at="2022-10-06T08:50:06Z" duration-ms="29693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForTrains -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.makemyTrip.Script.TestScript02@14008db3]" started-at="2022-10-06T08:50:06Z" name="tearDown" finished-at="2022-10-06T08:50:10Z" duration-ms="4545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.makemyTrip.Script.TestScript02@14008db3]" started-at="2022-10-06T08:50:10Z" name="afterClass" finished-at="2022-10-06T08:50:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.makemyTrip.Script.TestScript02 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.makemyTrip.listeners.TestNGListeners"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.makemyTrip.Script.TestScript02">
+        <methods>
+          <include name="objects"/>
+          <include name="afterClass"/>
+          <include name="searchForTrains"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.makemyTrip.Script.TestScript02 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
